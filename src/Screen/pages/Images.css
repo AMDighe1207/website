@@ -1,0 +1,26 @@
+.c-img {
+  height: 164px;
+  width: 16rem;
+  padding-left: 2rem;
+  padding-top: 2rem;
+}
+
+.laptop {
+  padding-left: 1rem;
+  padding-top: 25px;
+}
+
+@media screen and (max-width: 768px) {
+  .cardC {
+    margin-left: -6rem;
+    padding-bottom: 4rem;
+  }
+  .cardC2 {
+    margin-left: -9rem;
+    padding-bottom: 4rem;
+  }
+  .cardC4 {
+    margin-left: -9rem;
+    padding-bottom: 4rem;
+  }
+}
